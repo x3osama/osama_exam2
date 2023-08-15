@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Grilled Steak",
+    "description": "A perfectly grilled steak with a smoky flavor and tender texture."
+  },
+  {
+    "name": "Beef Stew",
+    "description": "A hearty and comforting stew with tender beef chunks, vegetables, and rich broth."
+  },
+  {
+    "name": "Beef Burger",
+    "description": "Juicy beef patty with all your favorite toppings, sandwiched in a soft bun."
+  },
+  {
+    "name": "Beef Tacos",
+    "description": "Tortillas filled with seasoned beef, fresh veggies, and flavorful salsa."
+  },
+  {
+    "name": "Beef Stir-Fry",
+    "description": "Quick and delicious stir-fried beef with a variety of colorful vegetables."
+  },
+  {
+    "name": "Beef Chili",
+    "description": "Spicy and hearty chili made with ground beef, beans, and a mix of spices."
+  },
+  {
+    "name": "Beef Kebabs",
+    "description": "Skewered and grilled beef pieces marinated in a flavorful sauce."
+  },
+  {
+    "name": "Beef Pot Roast",
+    "description": "Slow-cooked beef roast with vegetables and savory broth, falling apart and tender."
+  }
+]

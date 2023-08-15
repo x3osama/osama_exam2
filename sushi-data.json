@@ -1,0 +1,34 @@
+[
+  {
+    "name": "California Roll",
+    "description": "A classic sushi roll with crab, avocado, cucumber, and mayonnaise."
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "description": "A roll made with spicy tuna, cucumber, and sometimes avocado."
+  },
+  {
+    "name": "Dragon Roll",
+    "description": "A sushi roll with eel, avocado, and sometimes imitation crab."
+  },
+  {
+    "name": "Rainbow Roll",
+    "description": "A colorful sushi roll with various types of fish on top."
+  },
+  {
+    "name": "Tempura Roll",
+    "description": "A roll with tempura-fried ingredients like shrimp or vegetables."
+  },
+  {
+    "name": "Nigiri Sushi",
+    "description": "Hand-pressed sushi with a slice of fish on top of a small bed of rice."
+  },
+  {
+    "name": "Sashimi",
+    "description": "Thin slices of raw fish, often served with soy sauce and wasabi."
+  },
+  {
+    "name": "Maki Roll",
+    "description": "A general term for rolled sushi, including various fillings and wraps."
+  }
+]

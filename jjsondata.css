@@ -1,0 +1,40 @@
+#json-data {
+    text-align: center;
+    display: inline-block;
+    flex-wrap: wrap;
+    gap: 20px;
+    position: relative; /* Add this line for positioning */
+}
+
+.json-item {
+    display: inline-block;
+    margin: 7px;
+    height: 100px;
+    border: 1px solid #ccc;
+    padding: 5px 0 10px 10px;
+    width: 400px;
+    background-color: lightgray;
+    position: relative; /* Add this line for positioning */
+    text-align: left;
+
+}
+
+.name {
+    font-size: 15px;
+    text-align: right;
+    margin-bottom: 10px;
+    background-color: orange;
+    margin-top: 0;
+    display: inline-block;
+    padding: 0 5px;
+    position: absolute; /* Add this line for positioning */
+    top: 0; /* Position at the top */
+    left: 0; /* Position at the right */
+}
+
+.description {
+
+    position: absolute;
+    top: 17px;
+    font-size: 15px;
+}
